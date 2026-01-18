@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Relógio e Informações do Sistema</title>
+  
 </head>
 <body>
 
