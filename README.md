@@ -20,7 +20,7 @@
 Aplicação desktop desenvolvida em <strong>Java</strong> com interface gráfica
 <strong>Swing JFrame</strong> que exibe informações completas do sistema,
 incluindo <strong>data atual</strong>, <strong>hora</strong>,
-<strong>ano</strong> e <strong>fuso horário</strong>, utilizando as APIs
+<strong>ano</strong> e <strong>fuso horário</strong>,<strong> dia da semana</strong>, utilizando as APIs
 nativas de data e tempo do Java.
 </p>
 
