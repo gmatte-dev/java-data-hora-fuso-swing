@@ -231,7 +231,6 @@ public class RelogioSistema {
 
 <ul>
   <li>[ ] Atualização automática em tempo real</li>
-  <li>[ ] Exibição do dia da semana</li>
   <li>[ ] Suporte a múltiplos fusos horários</li>
   <li>[ ] Tema claro/escuro</li>
   <li>[ ] Internacionalização da interface</li>
